@@ -5,3 +5,4 @@ ollama
 langchain-chroma
 chromadb
 sentence-transformers
+streamlit
