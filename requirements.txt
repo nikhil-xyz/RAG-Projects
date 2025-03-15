@@ -1,3 +1,7 @@
+faiss-cpu
 langchain_community
 ipykernel
 ollama
+langchain-chroma
+chromadb
+sentence-transformers
