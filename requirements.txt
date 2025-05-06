@@ -8,3 +8,6 @@ sentence-transformers
 streamlit
 wikipedia
 arxiv
+langchain_mistralai
+langchain_groq
+langchainhub
